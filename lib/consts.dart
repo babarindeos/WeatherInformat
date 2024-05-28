@@ -1,0 +1,1 @@
+const OPENWEATHER_API_KEY = 'bb554b0b91fc3e0407ecf7291fbae5a8';
