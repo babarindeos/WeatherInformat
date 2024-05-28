@@ -1,1 +1,1 @@
-const OPENWEATHER_API_KEY = 'bb554b0b91fc3e0407ecf7291fbae5a8';
+const OPENWEATHER_API_KEY = 'hide_my_openweather_api_key';
